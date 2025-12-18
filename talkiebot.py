@@ -1,6 +1,15 @@
+from datetime import datetime
+
+hour = datetime.now().hour
+if hour < 12:
+    greeting = "Good morning"
+elif hour < 18:
+    greeting = "Good afternoon"
+else:
+    greeting = "Good evening"
 
 def chatbot():
-    print("🤖 ChatBot: Hello! I'm TalkieBot, here to have a fun little chat with you!")
+    print(f"🤖 ChatBot: {greeting}! I'm TalkieBot, here to have a fun little chat with you!")
     print("🤖 ChatBot: You can ask me about hobbies, favorite food, books, movies, or just say hi 😊")
     print("🤖 ChatBot: Type 'bye' anytime to exit.\n")
 
