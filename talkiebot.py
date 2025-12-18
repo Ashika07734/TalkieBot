@@ -16,9 +16,11 @@ def chatbot():
     name = input("🤖 ChatBot: First things first, what's your name? ")
     print(f"🤖 ChatBot: Nice to meet you, {name}! 🌟")
 
+    chat_count = 0
     while True:
         user_input = input("You: ").lower().strip()
-
+        chat_count += 1
+        print(f"🤖 ChatBot: We've chatted {chat_count} times so far!\n")
         if user_input in ["hi", "hello", "hey"]:
             print("🤖 ChatBot: Hi again! How can I brighten your day today?")
         elif user_input in ["how are you", "how are you doing"]:
