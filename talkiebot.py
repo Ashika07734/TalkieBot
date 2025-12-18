@@ -25,6 +25,8 @@ def chatbot():
             print("🤖 ChatBot: I'm doing great! Just waiting to have a nice chat with someone like you 😊")
         elif user_input in ["what is your name", "who are you"]:
             print("🤖 ChatBot: I'm your friendly chatbot TalkieBot. built using Python — no caffeine, just pure logic! ☕🤖")
+        elif "help" in user_input:
+            print("🤖 ChatBot: You can ask me about hobbies, food, movies, books, jobs, or say 'bye' to exit.")
         elif "your creator" in user_input:
             print("🤖 ChatBot: I was created by a Python developer who loves making code fun and interactive! 💻✨")
         elif "hobby" in user_input:
