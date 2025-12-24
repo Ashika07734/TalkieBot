@@ -28,8 +28,8 @@ The following Git commands were used during the development and management of th
 ![Branches](screenshots/branches.png)
 **Repo Screenshot**
 ![Reop Screenshot](screenshots/repo.png)
-**MergeConflict Screenshot**
-![Merge Screenshot](screnshots/MergeConflict.png)
+**Merge Conflict Screenshot**
+![Merge Screenshot](sreenshots/Merge Conflict.png)
 **git-log**
 ![git-log](screenshots/git-log.png)
 **repo**
