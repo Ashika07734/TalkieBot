@@ -51,6 +51,24 @@ These challenges helped in developing a deeper understanding of Git workflows an
 
 ---
 
+## Directory Structure
+```text
+# TALKIEBOT – Directory Structure
+
+TALKIEBOT/
+│
+├── screenshots/
+│   ├── branches.png
+│   ├── git-log.png
+│   ├── MergeConflict.png
+│   ├── output.png
+│   └── repo.png
+│
+├── README.md
+└── talkiebot.py
+```
+
+
 ## Conclusion
 This project successfully demonstrates the practical use of Git and GitHub for version control.  
 By implementing branching, merging, and conflict resolution, the project provides hands-on experience with real-world software development practices.  
