@@ -29,10 +29,10 @@ The following Git commands were used during the development and management of th
 **Repo Screenshot**
 ![Reop Screenshot](screenshots/repo.png)
 **Merge Conflict Screenshot**
-![Merge Screenshot](sreenshots/Merge Conflict.png)
+![merge conflict](screenshots/MergeConflict.png)
 **git-log**
 ![git-log](screenshots/git-log.png)
-**repo**
+**Output**
 ![output](screenshots/output.png)
 Screenshots included in the `screenshots` folder demonstrate the following:
 
