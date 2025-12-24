@@ -24,6 +24,16 @@ The following Git commands were used during the development and management of th
 ---
 
 ## Screenshots
+**Git Screenshots**:
+![Branches](screenshots/branches.png)
+**Repo Screenshot**
+![Reop Screenshot](screenshots/repo.png)
+**MergeConflict Screenshot**
+![Merge Screenshot](screnshots/MergeConflict.png)
+**git-log**
+![git-log](screenshots/git-log.png)
+**repo**
+![output](screenshots/output.png)
 Screenshots included in the `screenshots` folder demonstrate the following:
 
 - Git commit history showing multiple commits and merges  
